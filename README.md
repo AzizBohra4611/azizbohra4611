@@ -4,9 +4,7 @@
 ---
 ## 🎓 Education
 
-**B.Tech – Electronics & Communication Engineering** 
-##|Techno India NJR Institute of Technology|
-##|Udaipur India|
+**B.Tech – Electronics & Communication Engineering |Techno India NJR Institute of Technology||Udaipur India|***
 
 ---
 
