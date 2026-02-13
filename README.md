@@ -5,22 +5,16 @@
 ## 🎓 Education
 
 **B.Tech – Electronics & Communication Engineering** 
-|Techno India NJR Institute of Technology|
-|Udaipur India|
+##|Techno India NJR Institute of Technology|
+##|Udaipur India|
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming:
-C,
- Python,
- MATLAB
+### Programming: C, Python, MATLAB
 
-### Tools:
- VS code,
- CST Studio,
- Git & GitHub
+### Tools: VS code,CST Studio, Git & GitHub
 
 ---
 <h3>Experience</h3>
