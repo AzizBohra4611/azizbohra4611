@@ -69,7 +69,8 @@ VLSI Design, Signal Processing, Power Electronics
 
 ---
 
-## Soft Skills: Problem Solving ,Logical Thinking, Time Management  
+## Soft Skills:
+Problem Solving ,Logical Thinking, Time Management  
 
 ---
 
