@@ -73,7 +73,3 @@ VLSI Design, Signal Processing, Power Electronics
 Problem Solving ,Logical Thinking, Time Management  
 
 ---
-
-<p align="center">
- Always learning. Always building. Focused on AI-driven Wireless & VLSI Systems.
-</p>
