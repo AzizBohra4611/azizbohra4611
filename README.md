@@ -40,7 +40,7 @@ VLSI Design, Signal Processing, Power Electronics
 **TechX Labs, Inc.** – Remote (Boston, MA, USA)  
 *Feb 2026 – Present*
 
-- Assisted in deployment of AWS EC2 instances for development environments  
+- Deployment of AWS EC2 instances for development environments  
 - Configured Ubuntu-based cloud servers and installed Node.js runtime environments  
 - Managed source code repositories using Git & GitHub  
 
