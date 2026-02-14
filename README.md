@@ -1,81 +1,96 @@
-# Aziz Bohra
+<h1 align="center">Aziz Bohra</h1>
+<h3 align="center">Electronics & Communication Engineer | AI | VLSI | Wireless Systems</h3>
 
-Electronics and Communication Engineering Student  
-AI | Antenna Design | VLSI | Wireless Systems  
-
----
-
-## Professional Summary
-
-Research-oriented Electronics and Communication Engineering undergraduate with strong foundation in wireless communication systems, antenna design, VLSI fundamentals, and AI-assisted optimization. Experienced in electromagnetic simulation, cloud-based ML environments, and hardware-oriented problem solving.
-
----
-
-## Technical Skills
-
-### Programming
-- C
-- Python
-- MATLAB
-- Embedded C (Basics)
-
-### Wireless & Communication
-- Antennas and Wave Propagation
-- RF Fundamentals
-- 4G/5G Communication
-- OFDM
-- MIMO
-- Modulation Techniques
-
-### VLSI & Hardware
-- Digital Design Fundamentals
-- Static Timing Analysis (Basics)
-- FPGA Concepts
-- Embedded Systems
-
-### Tools & Platforms
-- CST Microwave Studio
-- Git & GitHub
-- Linux Environment
-- VS Code
-- AWS EC2 (Basic Deployment)
+<p align="center">
+📍 Udaipur, India <br>
+📧 azizbohr4611@gmail.com <br>
+📱 +91-9413812473 <br>
+🔗 <a href="https://github.com/AzizBohra4611">GitHub</a> |
+🔗 <a href="https://www.linkedin.com/in/aziz-bohra-51a061294/">LinkedIn</a>
+</p>
 
 ---
 
-## Projects
+## 🎓 Education
 
-### Microstrip Patch Antenna Design (CST Studio)
-- Designed and simulated 2.4 GHz microstrip antenna.
-- Evaluated S11, return loss, VSWR, radiation pattern.
-- Optimized structural parameters for bandwidth improvement.
+**B.Tech – Electronics & Communication Engineering (2022 – 2026)**  
+Techno India NJR Institute of Technology, Udaipur, India  
 
-### Snake Game – Python
-- Developed classic Snake game with collision detection.
-- Implemented real-time movement mechanics and score tracking.
+**Relevant Coursework:**  
+Wireless Communication, Antennas & Wave Propagation, Computer Networks,  
+VLSI Design, Signal Processing, Power Electronics  
 
 ---
 
-## Research Interests
+## 🛠 Technical Skills
 
-- AI-Driven Antenna Optimization  
-- Smart Skin Antenna Systems  
-- Quantum Communication Systems  
-- VLSI Design and Verification  
-- Next-Generation Wireless Systems  
+### 💻 Programming
+- C  
+- Python  
+- MATLAB  
+
+### 📡 Wireless & Systems
+- 4G/5G Fundamentals  
+- OFDM  
+- MIMO  
+- Modulation Techniques  
+- RF & Antenna Theory  
+
+### 🔬 VLSI & Hardware
+- Digital Design Basics  
+- Static Timing Analysis  
+- FPGA Concepts  
+
+### 🧰 Tools
+- VS Code  
+- CST Microwave Studio  
+- Git & GitHub  
 
 ---
 
-## Certifications
+## 💼 Professional Experience
 
-- Sensor Technologies – NPTEL  
-- Embedded System Design Using C – Maven Silicon  
-- Electronic Device Simulation (NgSpice) – NPTEL  
-- Antenna Design and Simulation Training – CST Studio  
+### Machine Learning Engineer Intern  
+**TechX Labs, Inc.** – Remote (Boston, MA, USA)  
+*Feb 2026 – Present*
+
+- Assisted in deployment of AWS EC2 instances for development environments  
+- Configured Ubuntu-based cloud servers and installed Node.js runtime environments  
+- Managed source code repositories using Git & GitHub  
 
 ---
 
-## Contact
+## 🚀 Projects
 
-Email: azizbohr4611@gmail.com  
-GitHub: https://github.com/AzizBohra4611  
-LinkedIn: https://www.linkedin.com/in/aziz-bohra-51a061294/
+### 📡 Antenna Simulation using CST Studio
+- Designed and simulated microstrip antenna structures  
+- Analyzed S-parameters, return loss, and radiation patterns  
+
+### 🐍 Snake Game (Python)
+- Developed classic Snake game with movement mechanics and collision detection  
+- Implemented score tracking and boundary constraints  
+
+---
+
+## 📜 Certifications
+
+- **Sensor Technologies: Physics, Fabrication, and Circuits – NPTEL**  
+- **Antenna Design and Simulation Training – Techno India NJR Institute of Technology**  
+  - Skills: CST Microwave Studio  
+- **Embedded System Design Using C Programming – Maven Silicon (Aug 2025)**  
+  - Credential ID: MSo1736  
+  - Skills: Embedded C, Embedded Systems  
+- **Electronic Device Simulation (NgSpice) and Analysis – NPTEL**
+
+---
+
+## 🧠 Soft Skills
+- Problem Solving  
+- Logical Thinking  
+- Time Management  
+
+---
+
+<p align="center">
+⭐ Always learning. Always building. Focused on AI-driven Wireless & VLSI Systems.
+</p>
