@@ -9,7 +9,7 @@
  <a href="https://www.linkedin.com/in/aziz-bohra-51a061294/">LinkedIn</a>
 </p>
 
----
+___
 
 ##  Education
 
@@ -36,7 +36,7 @@ Digital Design Basics ,Static Timing Analysis, FPGA Concepts
 ### Tools : 
 VS Code, CST Studio ,Git & GitHub, NgSpice  
 
----
+___
 
 ##  Professional Experience
 
@@ -48,7 +48,7 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
 - Configured Ubuntu-based cloud servers and installed Node.js runtime environments  
 - Managed source code repositories using Git & GitHub  
 
----
+___
 
 ##  Projects
 
@@ -60,7 +60,7 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
 - Developed classic Snake game with movement mechanics and collision detection  
 - Implemented score tracking and boundary constraints  
 
----
+___
 
 ## Certifications
 
@@ -71,9 +71,9 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
   - Skills: Embedded C, Embedded Systems  
 - **Electronic Device Simulation (NgSpice) and Analysis – NPTEL**
 
----
+___
 
 ## Soft Skills:
 Problem Solving ,Logical Thinking, Time Management  
 
----
+***___***
