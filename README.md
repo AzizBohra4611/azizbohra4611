@@ -20,7 +20,7 @@ Techno India NJR Institute of Technology, Udaipur, India
 Wireless Communication, Antennas & Wave Propagation, Computer Networks,  
 VLSI Design, Signal Processing, Power Electronics  
 
----
+___
 
 ##  Technical Skills
 
