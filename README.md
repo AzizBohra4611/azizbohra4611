@@ -42,7 +42,7 @@ ____
 
 ### Machine Learning Engineer Intern  
 **TechX Labs, Inc.** – Remote (Boston, MA, USA)  
-*Feb 2026 – Present*
+*Merch 2026 – April 2026*
 
 - Deployment of AWS EC2 instances for development environments  
 - Configured Ubuntu-based cloud servers and installed Node.js runtime environments  
