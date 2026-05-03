@@ -31,7 +31,7 @@ C, Python  MATLAB
 4G/5G Fundamentals ,OFDM, MIMO, Modulation Techniques, RF & Antenna Theory  
 
 ###  VLSI & Hardware :
-Digital Design Basics ,Static Timing Analysis, FPGA Concepts  
+Digital System Design   
 
 ### Tools : 
 VS Code, CST Studio ,Git & GitHub, NgSpice  
